@@ -1,4 +1,4 @@
-## Olá! é um prazer em recebe-lo aqui! ✋🏻
+## Olá! é um prazer em recebê-lo aqui! ✋🏻
 #### Palhoça, Santa Catarina, Brasil 🇵🇹🇧🇷📍
 ![JpeBecker´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jpebecker&show_icons=true&theme=radical)
 
