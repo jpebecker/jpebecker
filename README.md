@@ -12,9 +12,9 @@
 Atualmente, estudo **Ciência da Informação** pela Universidade Federal de Santa Catarina e tenho interesse nas áreas de análise de dados, desenvolvimento de jogos e uso inteligente e estratégico da informação. Tenho interesse em desenvolver projetos nas áreas de:
 
 - **Jogos Digitais - Unity**
-- **Python para automações e data science**
+- **Python para automações e análise de dados**
 - **Desenvolvimento Web**
-- **Análise de Informação (Power BI)**
+- **Inteligência de Negócios (Power BI)**
 - **Dados, APIs e Integrações**
 
 ---
@@ -51,9 +51,9 @@ Atualmente, estudo **Ciência da Informação** pela Universidade Federal de San
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://encurtador.com.br/OvtpW) 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpebecker@gmail.com) 
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://public.tableau.com/app/profile/jo.o.pedro.becker.schneider/vizzes)
 [![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jpebeckerprojects.blogspot.com/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/schneider.jp) 
-
 </div>
 
 ---
@@ -66,4 +66,4 @@ Atualmente, estudo **Ciência da Informação** pela Universidade Federal de San
 
 ---
 
-<p align="center">Obrigado pelo interesse! Bom código para você!</p>
+<p align="center">Obrigado pelo interesse!</p>
