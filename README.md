@@ -60,9 +60,10 @@ Atualmente, estudo **Ciência da Informação** pela Universidade Federal de San
 
 <h3 align="center">Projetos em Destaque</h3>
 
-🔹 [Repositório Bootcamp Python](https://github.com/jpebecker/bootcamp_python) – Projetos de um treinamento intensivo em Python (60h)   
-🔹 [Blog de Projetos e Experiências](https://jpebeckerprojects.blogspot.com/) – Registros acadêmicos   
-🔹 [Lista Python Brasil](https://github.com/jpebecker/listaPythonBrasil) – Notebook das listas de exercícios em Python
+🔹 [Repositório Bootcamp Python](https://github.com/jpebecker/bootcamp_python) – Projetos de um treinamento intensivo em Python (60h).   
+🔹 [Blog de Projetos e Experiências](https://jpebeckerprojects.blogspot.com/) – Registros acadêmicos.   
+🔹 [Lista Python Brasil](https://github.com/jpebecker/listaPythonBrasil) – Notebook das listas de exercícios em Python.   
+🔹 [Projeto de Informatização](https://github.com/jpebecker/projetoDeInformatizacao) – Projeto de ETL do Portal da Transparência para Disciplina da Faculdade.   
 
 ---
 
