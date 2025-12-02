@@ -32,18 +32,6 @@ Atualmente, estudo **Ciência da Informação** pela Universidade Federal de San
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpebecker&layout=compact&hide_progress=true&theme=highcontrast" alt="Top Langs" />
-</p>
-
----
-
-<h3 align="center">Estatísticas do meu GitHub</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpebecker&show_icons=true&theme=highcontrast&custom_title=Estatísticas%20GitHub&rank_icon=github" alt="GitHub Stats" />
-</p>
-
 ---
 
 <h3 align="center">Minhas outras redes</h3>
